@@ -3,4 +3,5 @@
     <string name="welcome_to_ordernow">Welcome to OrderNow</string>
     <string name="username_hint">       Username</string>
     <string name="password_hint">Password</string>
+    <string name="tvOr">Or</string>
 </resources>
